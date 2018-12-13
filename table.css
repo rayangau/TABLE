@@ -1,0 +1,43 @@
+body{
+  background-image: url('mars.jpg');
+
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+  font-family: 'Lora', serif;
+  background-repeat: no-repeat;
+color:#FF7B7B;
+margin:50px;
+}
+input{
+  background-color: #888080;
+}
+form>input
+  {
+  background-color: #888080;
+  font-family: 'Lora', serif;
+  font-weight: bold;
+   border:1px solid #F5C5C5;
+ border-radius:5px;
+
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ cursor:pointer;
+}
+
+select{
+  background-color: #888080;
+  font-weight: bold;
+   border:1px solid #F5C5C5;
+ border-radius:5px;
+
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ cursor:text;
+}
+span{
+  color:red;
+}
+h1{
+  text-align: center;
+  font-size: 3em;
+  text-decoration: underline;
+}
